@@ -6,7 +6,7 @@ This is the 4.2.3b version. Some LRs are bugged.\
 Pull requests and future maintaining of the project is appreciated.
 
 Some files might have been altered and the plugin might not compile as is due to outdated code/syntax or me messing with some files.\
-**I cannot guarantee that this is the original untouch code!**
+**I cannot guarantee that this is the original untouch code!** (although based on their timestamp, they probably are original since they all share the same)
 
 ## Moral point of view
 This is reuploaded without the creator's constent (Entity/Sples1).\
