@@ -21,6 +21,7 @@ Free and open-source software is what makes the SourceMod community live. It ben
 ## Known bugs
 - The "anti-cheat" feature is bugged in a lot of LRs.
 - The plugin uses SMLib to strip weapons, which is outdated and causes the players to gain tasers when using the Custom Weapon Skin module for Zephyrus store. It might happen with other Custom Weapon Skins plugins as well.
+  - UPDATE: The real cause is unknown as of now. I'm still trying to patch ENT_Hosties. In the meantime, I made a simple fix [here](https://github.com/azalty/sm-ent-hosties-knife-fix).
 
 ## Improvements (compared to the original Hosties)
 - Crashes related to tasers were fixed
