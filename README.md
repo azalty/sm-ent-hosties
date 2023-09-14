@@ -19,7 +19,7 @@ Some files might have been altered and the plugin might not compile as is due to
 **I cannot guarantee that this is the original untouched code!** (although based on their timestamp, they probably are original since they all share the same)
 
 ## Moral point of view
-This is reuploaded without the creator's constent (Entity/Sples1).\
+This is reuploaded without the creator's consent (Entity/Sples1).\
 This version **was** available publicly on AlliedModders and on the creator's discord server.\
 I participated in the project, helping by reporting bugs.
 
